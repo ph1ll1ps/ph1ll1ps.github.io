@@ -18,7 +18,7 @@ role: Innovator and leader in molecular and genetic programming
 #   url: "https://www.microsoft.com/en-us/research/people/t-prva/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on programming molecular and genetic circuits by combinining computational modelling, lab automation and machine learning.
+bio: I work on programming molecular and genetic circuits by combinining computational modelling, lab automation and machine learning.
 
 #interests:
 #- Synthetic Biology

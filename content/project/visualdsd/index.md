@@ -1,3 +1,4 @@
+
 ---
 title: Visual DSD
 summary: A programming language for nucleic acid circuits
@@ -17,6 +18,11 @@ links:
   icon_pack: fab
   name: Source code
   url: https://github.com/biological-computation/crn-engine
+
+- icon: github
+  icon_pack: fab
+  name: Windows Binary
+  url: "files/visualdsd_windows_latest.zip"
 url_code: ""
 url_pdf: ""
 url_slides: ""
