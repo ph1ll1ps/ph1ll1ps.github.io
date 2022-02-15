@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Andrew Phillips</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Fast Enumeration of Non-isomorphic Chemical Reaction Networks</title>
+      <link>/publication/spaccasassi2019b/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/roeder2019/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/roeder2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

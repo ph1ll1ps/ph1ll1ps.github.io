@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Haseloff | Andrew Phillips</title>
+    <link>/authors/jim-haseloff/</link>
+      <atom:link href="/authors/jim-haseloff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jim Haseloff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Jim Haseloff</title>
+      <link>/authors/jim-haseloff/</link>
+    </image>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/grant2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/grant2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

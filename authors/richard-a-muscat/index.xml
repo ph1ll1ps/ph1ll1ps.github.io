@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard A Muscat | Andrew Phillips</title>
+    <link>/authors/richard-a-muscat/</link>
+      <atom:link href="/authors/richard-a-muscat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard A Muscat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Richard A Muscat</title>
+      <link>/authors/richard-a-muscat/</link>
+    </image>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/chatterjee2017/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chatterjee2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
