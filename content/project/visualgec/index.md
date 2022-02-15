@@ -3,7 +3,7 @@ title: Visual GEC
 summary: A programming language for genetic circuits
 tags:
 - Genetic Circuit Design
-date: "2019-05-30T00:00:00Z"
+date: "2009-04-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
