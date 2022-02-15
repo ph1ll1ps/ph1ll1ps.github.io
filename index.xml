@@ -69,22 +69,6 @@
     </item>
     
     <item>
-      <title>Visual DSD</title>
-      <link>/project/visualdsd/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/visualdsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual GEC</title>
-      <link>/project/visualgec/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/visualgec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DNA-based communication in populations of synthetic protocells</title>
       <link>/publication/joesaar2019/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
@@ -113,6 +97,22 @@
       <link>/publication/chen2013/</link>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
       <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual DSD</title>
+      <link>/project/visualdsd/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/visualdsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual GEC</title>
+      <link>/project/visualgec/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/project/visualgec/</guid>
       <description></description>
     </item>
     
