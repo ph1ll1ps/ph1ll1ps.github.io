@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan-Jyue Chen | Andrew Phillips</title>
+    <link>/authors/yuan-jyue-chen/</link>
+      <atom:link href="/authors/yuan-jyue-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan-Jyue Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuan-Jyue Chen</title>
+      <link>/authors/yuan-jyue-chen/</link>
+    </image>
+    
+    <item>
+      <title>A deep learning model for predicting next-generation sequencing depth from DNA sequence</title>
+      <link>/publication/zhang2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/chen2013/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

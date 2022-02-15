@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Andrew Phillips</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A deep learning model for predicting next-generation sequencing depth from DNA sequence</title>
+      <link>/publication/zhang2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/grant2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/grant2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Programming Languages for Computational Nucleic Acid Systems</title>
+      <link>/publication/lakin2020/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms</title>
+      <link>/publication/nadezhdin2020/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nadezhdin2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Logic Programming Language for Computational Nucleic Acid Devices</title>
+      <link>/publication/spaccasassi2019/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA-based communication in populations of synthetic protocells</title>
+      <link>/publication/joesaar2019/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/joesaar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli can survive stress by noisy growth modulation</title>
+      <link>/publication/patange2018/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/patange2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/chatterjee2017/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chatterjee2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/chen2013/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

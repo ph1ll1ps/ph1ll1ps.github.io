@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Spaccasassi | Andrew Phillips</title>
+    <link>/authors/carlo-spaccasassi/</link>
+      <atom:link href="/authors/carlo-spaccasassi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlo Spaccasassi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Carlo Spaccasassi</title>
+      <link>/authors/carlo-spaccasassi/</link>
+    </image>
+    
+    <item>
+      <title>Fast Enumeration of Non-isomorphic Chemical Reaction Networks</title>
+      <link>/publication/spaccasassi2019b/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Logic Programming Language for Computational Nucleic Acid Devices</title>
+      <link>/publication/spaccasassi2019/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

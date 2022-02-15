@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James CW Locke | Andrew Phillips</title>
+    <link>/authors/james-cw-locke/</link>
+      <atom:link href="/authors/james-cw-locke/index.xml" rel="self" type="application/rss+xml" />
+    <description>James CW Locke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>James CW Locke</title>
+      <link>/authors/james-cw-locke/</link>
+    </image>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/grant2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/grant2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms</title>
+      <link>/publication/nadezhdin2020/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nadezhdin2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli can survive stress by noisy growth modulation</title>
+      <link>/publication/patange2018/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/patange2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
