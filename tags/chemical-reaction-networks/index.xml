@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemical Reaction Networks | Andrew Phillips</title>
+    <link>/tags/chemical-reaction-networks/</link>
+      <atom:link href="/tags/chemical-reaction-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemical Reaction Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Chemical Reaction Networks</title>
+      <link>/tags/chemical-reaction-networks/</link>
+    </image>
+    
+    <item>
+      <title>Fast Enumeration of Non-isomorphic Chemical Reaction Networks</title>
+      <link>/publication/spaccasassi2019b/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning stochastic chemical reaction networks with specified behaviours</title>
+      <link>/publication/murphy2018/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/murphy2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular verification of chemical reaction network encodings via serializability analysis</title>
+      <link>/publication/lakin2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/chen2013/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual DSD</title>
+      <link>/project/visualdsd/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/visualdsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

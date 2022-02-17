@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunology | Andrew Phillips</title>
+    <link>/tags/immunology/</link>
+      <atom:link href="/tags/immunology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immunology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Immunology</title>
+      <link>/tags/immunology/</link>
+    </image>
+    
+    <item>
+      <title>A Mechanistic Model for Predicting Cell Surface Presentation of Competing Peptides by MHC Class I Molecules</title>
+      <link>/publication/boulanger2018/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/boulanger2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

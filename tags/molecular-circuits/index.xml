@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Circuits | Andrew Phillips</title>
+    <link>/tags/molecular-circuits/</link>
+      <atom:link href="/tags/molecular-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular Circuits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Molecular Circuits</title>
+      <link>/tags/molecular-circuits/</link>
+    </image>
+    
+    <item>
+      <title>A deep learning model for predicting next-generation sequencing depth from DNA sequence</title>
+      <link>/publication/zhang2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Programming Languages for Computational Nucleic Acid Systems</title>
+      <link>/publication/lakin2020/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Logic Programming Language for Computational Nucleic Acid Devices</title>
+      <link>/publication/spaccasassi2019/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/spaccasassi2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA-based communication in populations of synthetic protocells</title>
+      <link>/publication/joesaar2019/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/joesaar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting DNA hybridization kinetics from sequence</title>
+      <link>/publication/zhang2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated analysis of tethered DNA nanostructures using constraint solving</title>
+      <link>/publication/lakin2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated, Constraint-Based Analysis of Tethered DNA Nanostructures</title>
+      <link>/publication/lakin2017/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/chatterjee2017/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chatterjee2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A strand graph semantics for DNA-based computation</title>
+      <link>/publication/petersen2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular verification of chemical reaction network encodings via serializability analysis</title>
+      <link>/publication/lakin2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/chen2013/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual DSD</title>
+      <link>/project/visualdsd/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/visualdsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

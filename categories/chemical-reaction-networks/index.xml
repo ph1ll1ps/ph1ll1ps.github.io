@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemical Reaction Networks | Andrew Phillips</title>
+    <link>/categories/chemical-reaction-networks/</link>
+      <atom:link href="/categories/chemical-reaction-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemical Reaction Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Chemical Reaction Networks</title>
+      <link>/categories/chemical-reaction-networks/</link>
+    </image>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/chen2013/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

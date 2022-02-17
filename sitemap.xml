@@ -38,7 +38,13 @@
     <loc>/authors/kerou-zhang/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/michael-x-wang/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/molecular-circuits/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/neil-dalchau/</loc>
@@ -53,10 +59,16 @@
     <loc>/publication/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/yuan-jyue-chen/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/attila-csikasz-nagy/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/genetic-circuits/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/gregory-szep/</loc>
@@ -102,6 +114,9 @@
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/carlo-spaccasassi/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/chemical-reaction-networks/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/spaccasassi2019b/</loc>
@@ -164,6 +179,51 @@
     <loc>/authors/matt-jones/</loc>
     <lastmod>2018-12-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/angela-w-zhang/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jinny-x-zhang/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lucia-r-wu/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/zhang2018/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rasmus-petersen/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wei-duan/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/murphy2018/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/boulanger2018/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/denise-sm-boulanger/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/immunology/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/peter-v-coveney/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ruth-charlotte-eccleston/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tim-elliott/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/lakin2018/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/lakin2017/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/chatterjee2017/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -176,10 +236,31 @@
     <loc>/authors/richard-a-muscat/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/petersen2016/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/darko-stefanovic/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/lakin2016/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rasmus-l-petersen/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2013-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/chemical-reaction-networks/</loc>
+    <lastmod>2013-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/david-soloveichik/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/luca-cardelli/</loc>
+    <lastmod>2013-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/molecular-circuits/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/niranjan-srinivas/</loc>
@@ -188,27 +269,16 @@
     <loc>/publication/chen2013/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nucleic-acid-circuits/</loc>
-    <lastmod>2009-06-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/</loc>
-    <lastmod>2009-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2009-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/visualdsd/</loc>
     <lastmod>2009-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/genetic-circuit-design/</loc>
-    <lastmod>2009-04-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/visualgec/</loc>
     <lastmod>2009-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/categories/</loc>
   </url><url>
     <loc>/talks/</loc>
   </url>

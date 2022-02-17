@@ -28,5 +28,37 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Automated analysis of tethered DNA nanostructures using constraint solving</title>
+      <link>/publication/lakin2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated, Constraint-Based Analysis of Tethered DNA Nanostructures</title>
+      <link>/publication/lakin2017/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A strand graph semantics for DNA-based computation</title>
+      <link>/publication/petersen2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular verification of chemical reaction network encodings via serializability analysis</title>
+      <link>/publication/lakin2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2016/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

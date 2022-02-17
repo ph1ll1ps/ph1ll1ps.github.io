@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasmus L Petersen | Andrew Phillips</title>
+    <link>/authors/rasmus-l-petersen/</link>
+      <atom:link href="/authors/rasmus-l-petersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rasmus L Petersen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Rasmus L Petersen</title>
+      <link>/authors/rasmus-l-petersen/</link>
+    </image>
+    
+    <item>
+      <title>A strand graph semantics for DNA-based computation</title>
+      <link>/publication/petersen2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
