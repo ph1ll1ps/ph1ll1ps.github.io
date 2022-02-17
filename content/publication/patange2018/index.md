@@ -14,7 +14,7 @@ authors:
 - Andrew Phillips
 - James CW Locke
 
-tags: []
+tags: [Genetic Circuits]
 categories: []
 date: 2018-12-17T00:00:00Z
 publishDate: 2018-12-17T00:00:00Z

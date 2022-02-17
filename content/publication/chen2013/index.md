@@ -14,8 +14,8 @@ authors:
 - David Soloveichik
 - Georg Seelig
 
-tags: []
-categories: []
+tags: [Molecular Circuits, Chemical Reaction Networks]
+categories: [Molecular Circuits, Chemical Reaction Networks]
 date: 2013-09-29T00:00:00Z
 publishDate: 2013-09-29T00:00:00Z
 url_pdf: http://www.nature.com/doifinder/10.1038/nnano.2013.189

@@ -12,7 +12,7 @@ authors:
 - Neil Dalchau
 - Edward Meeds
 
-tags: []
+tags: [Genetic Circuits, Machine Learning]
 categories: []
 date: 2019-06-11T00:00:00Z
 publishDate: 2019-06-11T00:00:00Z

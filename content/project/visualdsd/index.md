@@ -3,7 +3,8 @@
 title: Visual DSD
 summary: A programming language for nucleic acid circuits
 tags:
-- Nucleic Acid Circuits
+- Molecular Circuits
+- Chemical Reaction Networks
 date: "2009-06-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

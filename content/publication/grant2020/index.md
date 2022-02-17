@@ -17,7 +17,7 @@ authors:
 - Neil Dalchau
 - Andrew Phillips
 
-tags: []
+tags: [Genetic Circuits]
 categories: []
 date: 2020-11-02T00:00:00Z
 publishDate: 2020-11-02T00:00:00Z

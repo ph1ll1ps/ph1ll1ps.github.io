@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fast Enumeration of Non-isomorphic Chemical Reaction Networks"
+title: "Synthesizing and tuning stochastic chemical reaction networks with specified behaviours"
 subtitle: ""
-summary: ""
+summary: " "
 authors:
-
-- Carlo Spaccasassi
-- Boyan Yordanov
+- Niall Murphy
+- Rasmus Petersen
 - Andrew Phillips
-- Neil Dalchau 
+- Boyan Yordanov
+- Neil Dalchau
 
 tags: [Chemical Reaction Networks]
 categories: []
-date: 2019-09-18T00:00:00Z
-publishDate: 2019-09-18T00:00:00Z
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-31304-3_12
+date: 2018-08-15T00:00:00Z
+publishDate: 2018-08-15T00:00:00Z
+url_pdf: https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0283
 featured: false
 draft: false
-publication_types: ["1"]
-publication: "Computational Methods in Systems Biology (CMSB)"
+publication_types: ["2"]
+publication: "Journal of The Royal Society Interface"
 
 abstract: ""
 
