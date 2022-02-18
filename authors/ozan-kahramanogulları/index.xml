@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ozan Kahramanoğulları | Andrew Phillips</title>
+    <link>/authors/ozan-kahramanogullar%C4%B1/</link>
+      <atom:link href="/authors/ozan-kahramanogullar%C4%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ozan Kahramanoğulları</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Ozan Kahramanoğulları</title>
+      <link>/authors/ozan-kahramanogullar%C4%B1/</link>
+    </image>
+    
+    <item>
+      <title>A process model of Rho GTP-binding proteins</title>
+      <link>/publication/cardelli2009/</link>
+      <pubDate>Fri, 21 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cardelli2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process Model of Actin Polymerisation</title>
+      <link>/publication/cardelli2009b/</link>
+      <pubDate>Sat, 28 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cardelli2009b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

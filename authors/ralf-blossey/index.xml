@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ralf Blossey | Andrew Phillips</title>
+    <link>/authors/ralf-blossey/</link>
+      <atom:link href="/authors/ralf-blossey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ralf Blossey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Ralf Blossey</title>
+      <link>/authors/ralf-blossey/</link>
+    </image>
+    
+    <item>
+      <title>Compositionality, stochasticity, and cooperativity in dynamic models of gene regulation</title>
+      <link>/publication/blossey2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/blossey2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compositional Approach to the Stochastic Dynamics of Gene Networks</title>
+      <link>/publication/blossey2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/blossey2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

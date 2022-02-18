@@ -61,10 +61,58 @@
     </item>
     
     <item>
+      <title>A process model of Rho GTP-binding proteins</title>
+      <link>/publication/cardelli2009/</link>
+      <pubDate>Fri, 21 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cardelli2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A programming language for composable DNA circuits</title>
       <link>/publication/phillips2009/</link>
       <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
       <guid>/publication/phillips2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process Model of Actin Polymerisation</title>
+      <link>/publication/cardelli2009b/</link>
+      <pubDate>Sat, 28 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cardelli2009b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compositionality, stochasticity, and cooperativity in dynamic models of gene regulation</title>
+      <link>/publication/blossey2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/blossey2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient, Correct Simulation of Biological Processes in the Stochastic Pi-calculus</title>
+      <link>/publication/phillips2007/</link>
+      <pubDate>Thu, 20 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/phillips2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compositional Approach to the Stochastic Dynamics of Gene Networks</title>
+      <link>/publication/blossey2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/blossey2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graphical Representation for Biological Processes in the Stochastic pi-Calculus</title>
+      <link>/publication/phillips2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/phillips2006/</guid>
       <description></description>
     </item>
     
