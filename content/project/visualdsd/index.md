@@ -5,7 +5,7 @@ summary: A programming language for nucleic acid circuits
 tags:
 - Molecular Circuits
 - Chemical Reaction Networks
-date: "2009-06-19T00:00:00Z"
+date: "2009-08-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
