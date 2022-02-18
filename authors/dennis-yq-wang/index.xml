@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dennis YQ Wang | Andrew Phillips</title>
+    <link>/authors/dennis-yq-wang/</link>
+      <atom:link href="/authors/dennis-yq-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dennis YQ Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Dennis YQ Wang</title>
+      <link>/authors/dennis-yq-wang/</link>
+    </image>
+    
+    <item>
+      <title>Computational modeling of the EGFR network elucidates control mechanisms regulating signal dynamics</title>
+      <link>/publication/wang2009/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/wang2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jörn M Werner | Andrew Phillips</title>
+    <link>/authors/jorn-m-werner/</link>
+      <atom:link href="/authors/jorn-m-werner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jörn M Werner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Jörn M Werner</title>
+      <link>/authors/jorn-m-werner/</link>
+    </image>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/bailey2015/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bailey2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

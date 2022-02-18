@@ -37,6 +37,30 @@
     </item>
     
     <item>
+      <title>A High-Level Language for Rule-Based Modelling</title>
+      <link>/publication/pedersen2015/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pedersen2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Design of Reaction-Diffusion Patterns Using DNA-Based Chemical Reaction Networks</title>
+      <link>/publication/dalchau2014/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/dalchau2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Design of Nucleic Acid Feedback Control Circuits</title>
+      <link>/publication/yordanov2014/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yordanov2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programmable chemical controllers made from DNA</title>
       <link>/publication/chen2013/</link>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
@@ -45,9 +69,25 @@
     </item>
     
     <item>
+      <title>Functional Analysis of Large-Scale DNA Strand Displacement Circuits</title>
+      <link>/publication/yordanov2013/</link>
+      <pubDate>Sun, 22 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/yordanov2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and analysis of DNA strand displacement devices using probabilistic model checking</title>
+      <link>/publication/lakin2012b/</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2012b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual DSD</title>
       <link>/project/visualdsd/</link>
-      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
       <guid>/project/visualdsd/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Beal | Andrew Phillips</title>
+    <link>/authors/jacob-beal/</link>
+      <atom:link href="/authors/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Beal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Jacob Beal</title>
+      <link>/authors/jacob-beal/</link>
+    </image>
+    
+    <item>
+      <title>High-Level Programming Languages for Biomolecular Systems</title>
+      <link>/publication/beal2011/</link>
+      <pubDate>Fri, 29 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/beal2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

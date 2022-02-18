@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joern M Werner | Andrew Phillips</title>
+    <link>/authors/joern-m-werner/</link>
+      <atom:link href="/authors/joern-m-werner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joern M Werner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Joern M Werner</title>
+      <link>/authors/joern-m-werner/</link>
+    </image>
+    
+    <item>
+      <title>A Peptide Filtering Relation Quantifies MHC Class I Peptide Optimization</title>
+      <link>/publication/dalchau2011/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dalchau2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

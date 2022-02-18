@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistair Bailey | Andrew Phillips</title>
+    <link>/authors/alistair-bailey/</link>
+      <atom:link href="/authors/alistair-bailey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alistair Bailey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Alistair Bailey</title>
+      <link>/authors/alistair-bailey/</link>
+    </image>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/bailey2015/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bailey2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>/publication/vanhateren2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/vanhateren2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

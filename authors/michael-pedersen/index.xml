@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Pedersen | Andrew Phillips</title>
+    <link>/authors/michael-pedersen/</link>
+      <atom:link href="/authors/michael-pedersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Pedersen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Michael Pedersen</title>
+      <link>/authors/michael-pedersen/</link>
+    </image>
+    
+    <item>
+      <title>A High-Level Language for Rule-Based Modelling</title>
+      <link>/publication/pedersen2015/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pedersen2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Method for Automated Characterization of Genetic Components</title>
+      <link>/publication/yordanov2014b/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yordanov2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio Simulators: a web UI for biological simulation.</title>
+      <link>/publication/pedersen2014/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pedersen2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards programming languages for genetic engineering of living cells</title>
+      <link>/publication/pedersen2009/</link>
+      <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/pedersen2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

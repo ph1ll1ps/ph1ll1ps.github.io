@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James R Brown | Andrew Phillips</title>
+    <link>/authors/james-r-brown/</link>
+      <atom:link href="/authors/james-r-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>James R Brown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>James R Brown</title>
+      <link>/authors/james-r-brown/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of Intrinsic Properties of Promoters</title>
+      <link>/publication/rudge2016/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rudge2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior.</title>
+      <link>/publication/grant2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/grant2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the rational design of synthetic cells with prescribed population dynamics</title>
+      <link>/publication/dalchau2012/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dalchau2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

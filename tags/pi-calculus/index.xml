@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi-calculus | Andrew Phillips</title>
+    <link>/tags/pi-calculus/</link>
+      <atom:link href="/tags/pi-calculus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pi-calculus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Pi-calculus</title>
+      <link>/tags/pi-calculus/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic simulation of multiple process calculi for biology</title>
+      <link>/publication/lakin2012c/</link>
+      <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lakin2012c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Peptide Filtering Relation Quantifies MHC Class I Peptide Optimization</title>
+      <link>/publication/dalchau2011/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dalchau2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic abstract machine for stochastic process calculi</title>
+      <link>/publication/pauleve2010/</link>
+      <pubDate>Wed, 29 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/pauleve2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational modeling of the EGFR network elucidates control mechanisms regulating signal dynamics</title>
+      <link>/publication/wang2009/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/wang2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harish Chandran | Andrew Phillips</title>
+    <link>/authors/harish-chandran/</link>
+      <atom:link href="/authors/harish-chandran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harish Chandran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Harish Chandran</title>
+      <link>/authors/harish-chandran/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Analysis of Localized DNA Hybridization Circuits</title>
+      <link>/publication/dalchau2015/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dalchau2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localized Hybridization Circuits</title>
+      <link>/publication/chandran2011/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/chandran2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
