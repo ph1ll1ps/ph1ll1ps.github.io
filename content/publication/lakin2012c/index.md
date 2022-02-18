@@ -10,7 +10,7 @@ authors:
 - Loïc Paulevé
 - Andrew Phillips
 
-tags: [Molcular Circuits, Formal Semantics, Pi-calculus]
+tags: [Molecular Circuits, Formal Semantics, Pi-calculus]
 categories: []
 date: 2012-05-04T00:00:00Z
 publishDate: 2012-05-04T00:00:00Z
