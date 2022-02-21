@@ -43,3 +43,14 @@ url_video: ""
 slides: ""
 ---
 
+Visual DSD is a programming language and software tool for designing nucleic acid circuits.
+
+<b>Acknowledgements</b>
+<ul>
+  <li>Visual DSD was developed by the following people, in reverse order of joining the project: Carlo Spaccasassi, Rasmus Petersen, Kathryn Gray, Colin Gravill, Neil Dalchau, Filippo Polo, Simon Youssef, Matthew Lakin and Andrew Phillips.</li>
+  <li><a href = "http://lucacardelli.name/">Luca Cardelli</a> assisted with the design of the DSD language and extensive testing of DSD. <a href = "https://www.dna.caltech.edu/~winfree/">Erik Winfree</a> and his group have provided valuable feedback on DSD, together with <a href = "https://www.seeliglab.org/">Georg Seelig</a> and his group.</li>
+  <li>The core DSD language was developed in <a href = "https://fsharp.org/">F#</a>. It uses <a href = "https://www.microsoft.com/en-us/research/project/interactive-data-display/">Dynamic Data Display</a> for visualising simulation plots and <a href = "https://www.microsoft.com/en-us/research/project/microsoft-automatic-graph-layout/">Microsoft Automatic Graph Layout</a> for visualising networks.</li>
+</ul>
+
+
+
