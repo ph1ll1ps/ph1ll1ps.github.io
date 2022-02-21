@@ -3,7 +3,7 @@
 
 title: "Microsoft’s “Biological Computing” Lab Aims To Fight Diseases By Reprogramming Cells"
 subtitle: "When you work at Microsoft, everything looks like software–even cancer and other threats to human life. - <a href = https://www.fastcompany.com/3063835/microsofts-biological-computing-lab-wants-to-fight-diseases-by-reprogrammin>Fast Company</a>"
-summary: "I led a team to establish the first molecular biology lab at Microsoft."
+summary: "I led a team to establish the first molecular biology lab at Microsoft. <br> <b>Fast Company</b>"
 authors: []
 
 tags: []

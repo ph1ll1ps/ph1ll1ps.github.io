@@ -3,7 +3,7 @@
 
 title: "Microsoft moves into biological computing with Station B"
 subtitle: "Tech giant rolls out new system to analyse vast volumes of biomedical data - <a href = https://www.ft.com/content/432a2548-41cb-11e9-9bee-efab61506f44> Financial Times</a>"
-summary: "I led a team to create and launch the Station B initiative at Microsoft Research, with the aim of developing a platform for programming biological systems."
+summary: "I led a team to create and launch the Station B initiative at Microsoft Research, with the aim of developing a platform for programming biological systems. <br> <b>Financial Times</b>"
 authors: []
 
 tags: []

@@ -3,7 +3,7 @@
 
 title: "Researchers build nanoscale distributed DNA computing systems from artificial protocells"
 subtitle: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality. - <a href = https://www.microsoft.com/en-us/research/blog/researchers-build-nanoscale-distributed-dna-computing-systems-from-artificial-protocells/>Microsoft Research Blog</a>"
-summary: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality."
+summary: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality. <br> <b>Microsoft Research Blog</b>"
 authors: []
 
 tags: []

@@ -3,7 +3,7 @@
 
 title: "Novartis and Microsoft join forces to develop drugs using AI"
 subtitle: "Five-year agreement is one of the most expansive tie-ups between big pharma and big tech - <a href = https://www.ft.com/content/93e532ee-e3a5-11e9-b112-9624ec9edc59> Financial Times</a>"
-summary: "I led a team to create a Microsoft Research partnership with Novartis Cell & Gene therapy, which was a key component of a broader Microsoft-Novartis partnership."
+summary: "I led a team to create a Microsoft Research partnership with Novartis Cell & Gene therapy, which was a key component of a broader Microsoft-Novartis partnership. <br> <b>Financial Times</b>"
 authors: []
 
 tags: []

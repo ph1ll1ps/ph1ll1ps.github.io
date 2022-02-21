@@ -3,7 +3,7 @@
 
 title: "Programming biology with Dr. Andrew Phillips"
 subtitle: "When we think of information processing systems, we usually think of computers, but the cells in our bodies are also information processing systems. Hear why Dr. Andrew Phillips aims to solve how these building blocks of life work. - <a href = https://www.microsoft.com/en-us/research/podcast/programming-biology-with-dr-andrew-phillips/>Microsoft Research Podcast</a>"
-summary: "What if we could figure out exactly how the building blocks of life work and harness their power with the rigor and predictability of computer science?"
+summary: "What if we could figure out exactly how the building blocks of life work and harness their power with the rigor and predictability of computer science? <br> <b>Microsoft Research Podcast</b>"
 authors: []
 
 tags: []
