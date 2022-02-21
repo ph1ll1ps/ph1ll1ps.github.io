@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [visualdsd,visualgec]
 ---
 
 I led a team to create and launch the Station B initiative at Microsoft Research, with the aim of developing a platform for programming biological systems.

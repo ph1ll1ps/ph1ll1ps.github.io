@@ -1,11 +1,12 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Featured Posts section created with the Featured Content widget.
+# This section displays publications from `content/post/` which have
+# `featured = true` in their front matter.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear.
 
 title = "Press"
 subtitle = ""
@@ -15,10 +16,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+  count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -31,7 +29,7 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+	
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -45,7 +43,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+  
   # Background color.
   # color = "navy"
   
@@ -54,7 +52,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "cello.jpg"  
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -67,3 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<a href="/post/">SEE ALL PRESS ></a>

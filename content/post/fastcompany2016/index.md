@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Novartis and Microsoft join forces to develop drugs using AI"
-subtitle: "Five-year agreement is one of the most expansive tie-ups between big pharma and big tech - <a href = https://www.ft.com/content/93e532ee-e3a5-11e9-b112-9624ec9edc59> Financial Times</a>"
-summary: "I led a team to create a Microsoft Research partnership with Novartis Cell & Gene therapy, which was a key component of a broader Microsoft-Novartis partnership."
+title: "Microsoft’s “Biological Computing” Lab Aims To Fight Diseases By Reprogramming Cells"
+subtitle: "When you work at Microsoft, everything looks like software–even cancer and other threats to human life. - <a href = https://www.fastcompany.com/3063835/microsofts-biological-computing-lab-wants-to-fight-diseases-by-reprogrammin>Fast Company</a>"
+summary: "I led a team to establish the first molecular biology lab at Microsoft."
 authors: []
 
 tags: []
 categories: []
-date: 2019-10-01T00:00:00Z
-publishDate: T00:00:00Z
+date: 2016-09-20T00:00:00Z
+publishDate:
 url_pdf: 
 featured: true
-publication: "Financial Times"
+publication: 
 
 abstract:
 
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [visualgec]
 ---
 
-I led a team to create a Microsoft Research partnership with Novartis Cell & Gene therapy, which was a key component of a broader Microsoft-Novartis partnership.
+I led a team to establish the first molecular biology lab at Microsoft.
