@@ -72,33 +72,6 @@ date_format = "2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "Computer Laboratory, University of Cambridge"
-  organization_url = ""
-  title = "Award for outstanding dissertation"
-  url = ""
-  date_start = "2000-08-31"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "Barbados Government"
-  organization_url = ""
-  title = "National scholarship for A-level results"
-  url = ""
-  date_start = "1995-08-31"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "Barbados Government"
-  organization_url = ""
-  title = "National award for best O-level results"
-  url = ""
-  date_start = "1993-08-31"
-  date_end = ""
-  description = ""
-
 +++
 
 <a href="AndrewPhillipsCV.pdf"> <i class="fab fa-adobe"></i> DOWNLOAD CV</a>

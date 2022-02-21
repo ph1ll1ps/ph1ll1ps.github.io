@@ -19,11 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD in Computer Science"
-  company = "Department of Computing, Imperial College"
+  company = "Department of Computing, Imperial College London"
   company_url = ""
   location = "London, UK"
   date_start = "2000-09-30"
   date_end = "2004-12-31"
-  description = "Thesis title <a href = \"/publication/phillips2005/\">Specifying and Implementing Secure Mobile Applications in the Channel Ambient System</a>. Supervised by Susan Eisenbach, Nobuko Yoshida and Bashar Nuseibeh."
+  description = "Department Scholarship. Overseas Research Scholarship. Thesis title <a href = \"/publication/phillips2005/\">Specifying and Implementing Secure Mobile Applications in the Channel Ambient System</a>. Supervised by Susan Eisenbach, Nobuko Yoshida and Bashar Nuseibeh. "
 
+[[experience]]
+  title = "Master's degree in Computer Science (Distinction)"
+  company = "Computer Laboratory, University of Cambridge"
+  company_url = ""
+  location = "Cambridge, UK"
+  date_start = "1999-10-01"
+  date_end = "2000-08-31"
+  description = "Award for outstanding dissertation. Scholarship for outstanding examination results. Dissertation title: Implementation of a Mobile Agent Language based on Pi-Calculus. Supervised by Peter Sewell and Paweł Wojciechowski."
+
+[[experience]]
+  title = "Master's degree in Electrical and Computer Engineering (First class honours)"
+  company = "Institut National des Sciences Appliquées (INSA)"
+  company_url = ""
+  location = "Toulouse, France"
+  date_start = "1997-09-01"
+  date_end = "2000-08-31"
+  description = "Final year spent at the University of Cambridge as part of a joint honours programme."
+
+[[experience]]
+  title = "Undergraduate Degree in Electrical Engineering (First class honours)"
+  company = "Université Paul Sabatier"
+  company_url = ""
+  location = "Toulouse, France"
+  date_start = "1995-09-01"
+  date_end = "1997-07-31"
+  description = "Award for best examination results."
+
+[[experience]]
+  title = "Secondary Education"
+  company = "Harrison College"
+  company_url = ""
+  location = "Barbados"
+  date_start = "1988-09-01"
+  date_end = "1995-07-31"
+  description = "National scholarship for A-level results. National award for best O-level results."
 +++
