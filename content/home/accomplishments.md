@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Recognition"
 subtitle = ""
 
 # Date format
@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "Microsoft"
   organization_url = "https://microsoft.com"
-  title = "First-place winner of company-wide Hackathon"
+  title = "Co-chair of the International Conference on DNA Computing and Molecular Programming"
   url = ""
   date_start = "2019-05-30"
   date_end = ""
