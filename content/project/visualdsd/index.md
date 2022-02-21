@@ -20,10 +20,16 @@ links:
   name: Source code
   url: https://github.com/biological-computation/crn-engine
 
-- icon: github
+- icon: windows
   icon_pack: fab
   name: Windows Binary
   url: "files/visualdsd_windows_latest.zip"
+  
+- icon: adobe
+  icon_pack: fab
+  name: Visual DSD Manual
+  url: "files/VisualDSDManual.pdf"
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
