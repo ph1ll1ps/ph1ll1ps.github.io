@@ -18,7 +18,7 @@ role: Innovator and leader in molecular and genetic programming
 #   url: "https://www.microsoft.com/en-us/research/people/t-prva/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: " "
+bio: 
 
 #interests:
 #- Synthetic Biology
