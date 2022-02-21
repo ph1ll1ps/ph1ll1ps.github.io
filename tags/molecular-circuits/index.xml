@@ -217,7 +217,14 @@
       <link>/project/visualdsd/</link>
       <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
       <guid>/project/visualdsd/</guid>
-      <description></description>
+      <description>&lt;p&gt;Visual DSD is a programming language and software tool for designing nucleic acid circuits.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Acknowledgements&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Visual DSD was developed by the following people, in reverse order of joining the project: Carlo Spaccasassi, Rasmus Petersen, Kathryn Gray, Colin Gravill, Neil Dalchau, Filippo Polo, Simon Youssef, Matthew Lakin and Andrew Phillips.&lt;/li&gt;
+  &lt;li&gt;&lt;a href = &#34;http://lucacardelli.name/&#34;&gt;Luca Cardelli&lt;/a&gt; assisted with the design of the DSD language and extensive testing of DSD. &lt;a href = &#34;https://www.dna.caltech.edu/~winfree/&#34;&gt;Erik Winfree&lt;/a&gt; and his group have provided valuable feedback on DSD, together with &lt;a href = &#34;https://www.seeliglab.org/&#34;&gt;Georg Seelig&lt;/a&gt; and his group.&lt;/li&gt;
+  &lt;li&gt;The core DSD language was developed in &lt;a href = &#34;https://fsharp.org/&#34;&gt;F#&lt;/a&gt;. It uses &lt;a href = &#34;https://www.microsoft.com/en-us/research/project/interactive-data-display/&#34;&gt;Dynamic Data Display&lt;/a&gt; for visualising simulation plots and &lt;a href = &#34;https://www.microsoft.com/en-us/research/project/microsoft-automatic-graph-layout/&#34;&gt;Microsoft Automatic Graph Layout&lt;/a&gt; for visualising networks.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
