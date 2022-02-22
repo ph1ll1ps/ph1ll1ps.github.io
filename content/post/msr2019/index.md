@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Researchers build nanoscale distributed DNA computing systems from artificial protocells"
-subtitle: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality. - <a href = https://www.microsoft.com/en-us/research/blog/researchers-build-nanoscale-distributed-dna-computing-systems-from-artificial-protocells/>Microsoft Research Blog</a>"
-summary: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality. <br> <b>Microsoft Research Blog</b>"
+subtitle: "For DNA devices to work, they have to stay intact. Researchers have devised a method to encapsulate the molecules inside protocells, not only protecting them from enzyme degradation but also improving their processing speed and functionality. - <a href = https://www.microsoft.com/en-us/research/blog/researchers-build-nanoscale-distributed-dna-computing-systems-from-artificial-protocells/>Microsoft Research</a>"
+summary: "I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells. <br> <b>Microsoft Research</b>"
 authors: []
 
 tags: []
@@ -31,5 +31,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [visualdsd]
 ---
+I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells.
