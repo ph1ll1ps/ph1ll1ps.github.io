@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Cambridge, UK"
   date_start = "1999-10-01"
   date_end = "2000-08-31"
-  description = "Award for outstanding dissertation. Scholarship for outstanding examination results. Dissertation title: Implementation of a Mobile Agent Language based on Pi-Calculus. Supervised by Peter Sewell and Paweł Wojciechowski."
+  description = "Award for outstanding dissertation. Scholarship for outstanding examination results. Dissertation title: Implementation of a Mobile Agent Language Based on Pi-Calculus. Supervised by Peter Sewell and Paweł Wojciechowski."
 
 [[experience]]
   title = "Master's degree in Electrical and Computer Engineering (First class honours)"
