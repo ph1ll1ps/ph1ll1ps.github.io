@@ -3,7 +3,7 @@
 
 title: "Steering the future of computing"
 subtitle: "Computational power is surging thanks to insatiable consumers. Natural scientists should seize opportunities to stimulate computer science, to help everybody cope with huge volumes of data. - <a href = https://www.nature.com/articles/440383a>Nature</a>"
-summary: "Co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, \"That report inspired this week's focus on computing in Nature\", including the cover.<br><b>Nature</b>"
+summary: "I was a co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, \"That report inspired this week's focus on computing in Nature\", including the cover.<br><b>Nature</b>"
 authors: []
 
 tags: []
@@ -34,4 +34,4 @@ image:
 projects: []
 ---
 
-Co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, \"That report inspired this week's focus on computing in Nature\", including the cover.
+I was a co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, \"That report inspired this week's focus on computing in Nature\", including the cover.

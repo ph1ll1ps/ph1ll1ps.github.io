@@ -3,7 +3,7 @@
 
 title: "Microsoft: Productivity Future Vision"
 subtitle: "How could emerging technologies transform the way we get things done 5-10 years in the future? - <a href = \"https://www.youtube.com/watch?v=w-tFdreZB94\">Microsoft Office Envisioning</a>"
-summary: "I proposed the biotechnology concept for a Microsoft Office Envisioning video on a future version of Office that enables programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.<br><b>Microsoft Office Envisioning</b>"
+summary: "I proposed the concept for a Microsoft Office Envisioning video on a future version of Office that optimises programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.<br><b>Microsoft Office Envisioning</b>"
 authors: []
 
 tags: []
@@ -34,4 +34,4 @@ image:
 projects: []
 ---
 
-I proposed the biotechnology concept for a Microsoft Office Envisioning video on a future version of Office that enables programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.
+I proposed the concept for a Microsoft Office Envisioning video on a future version of Office that optimises programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.
