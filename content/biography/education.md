@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2000-09-30"
   date_end = "2004-12-31"
-  description = "Department Scholarship. Overseas Research Scholarship. Thesis title <a href = \"/publication/phillips2005/\">Specifying and Implementing Secure Mobile Applications in the Channel Ambient System</a>. Supervised by Susan Eisenbach, Nobuko Yoshida and Bashar Nuseibeh. "
+  description = "Department Scholarship. Overseas Research Scholarship. Winner in the Imperial College Ideas Challenge 2001. Thesis title <a href = \"/publication/phillips2005/\">Specifying and Implementing Secure Mobile Applications in the Channel Ambient System</a>. Supervised by Susan Eisenbach, Nobuko Yoshida and Bashar Nuseibeh. "
 
 [[experience]]
   title = "Master's degree in Computer Science (Distinction)"

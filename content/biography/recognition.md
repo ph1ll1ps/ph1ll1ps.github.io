@@ -57,7 +57,7 @@ date_format = "2006"
 [[item]]
   organization = "International Society for Nanoscale Science, Computation and Engineering"
   organization_url = "https://isnsce.org/"
-  title = "Programme co-chair, 21st International Conference on DNA Computing and Molecular Programming"
+  title = "PC co-chair, 21st International Conference on DNA Computing and Molecular Programming"
   url = "https://isnsce.org/2015/06/01/aug-17-21-2015-dna21-the-21st-international-meeting-on-dna-computing-and-molecular-programming/"
   date_start = "2015-08-17"
   date_end = ""
