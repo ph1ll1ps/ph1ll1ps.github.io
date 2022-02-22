@@ -79,15 +79,6 @@
     </item>
     
     <item>
-      <title>Researchers build nanoscale distributed DNA computing systems from artificial protocells</title>
-      <link>/post/msr2019/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/msr2019/</guid>
-      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
       <link>/publication/roeder2019/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
@@ -105,11 +96,46 @@
     </item>
     
     <item>
+      <title>Microsoft Brings AI to U.K. Gene-Therapy Firm</title>
+      <link>/post/bloomberg2019/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/bloomberg2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microsoft moves into biological computing with Station B</title>
       <link>/post/financialtimes2019b/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/post/financialtimes2019b/</guid>
       <description>&lt;p&gt;I led a team to create and launch the Station B initiative at Microsoft Research, with the aim of developing a platform for programming biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft partners with biotech on ‘biological computing’ and cell DNA programming</title>
+      <link>/post/fiercebiotech2019/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/fiercebiotech2019/</guid>
+      <description>&lt;p&gt;Microsoft hopes its platform will improve lower the costs of viral vector production for gene therapies, and enable research into antibiotic-resistant colonies of bacteria.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Researchers build nanoscale distributed DNA computing systems from artificial protocells</title>
+      <link>/post/msr2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/msr2019/</guid>
+      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Station B: A platform that could help boost production of lifesaving biological therapies</title>
+      <link>/post/msr2019b/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/msr2019b/</guid>
+      <description>&lt;p&gt;In collaboration with Princeton University, Oxford Biomedica, and Synthace, Station B aims to help scientists more efficiently &amp;amp; predictably combat disease.&lt;/p&gt;
 </description>
     </item>
     
@@ -167,6 +193,15 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/publication/dalchau2018/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Scientists use machine learning to predict DNA binding rates from sequence</title>
+      <link>/post/msr2017b/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/post/msr2017b/</guid>
+      <description>&lt;p&gt;I led a computational team to help develop a machine learning method for predicting DNA binding rates.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -264,7 +299,7 @@
       <link>/post/office2015/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       <guid>/post/office2015/</guid>
-      <description>&lt;p&gt;I proposed the biotechnology concept for a Microsoft Office Envisioning video on a future version of Office that enables programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.&lt;/p&gt;
+      <description>&lt;p&gt;I proposed the concept for a Microsoft Office Envisioning video on a future version of Office that optimises programming yeast cells to biomanufacture therapeutics using kelp as an energy source. 2M views.&lt;/p&gt;
 </description>
     </item>
     
@@ -390,15 +425,6 @@
     </item>
     
     <item>
-      <title>Scientists use machine learning to predict DNA binding rates from sequence</title>
-      <link>/post/msr2017b/</link>
-      <pubDate>Sat, 03 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/post/msr2017b/</guid>
-      <description>&lt;p&gt;I led a computational team to help develop a machine learning method for predicting DNA binding rates.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Visual DSD: a design and analysis tool for DNA strand displacement systems</title>
       <link>/publication/lakin2011/</link>
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
@@ -428,6 +454,15 @@
       <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
       <guid>/publication/lakin2011b/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>U.K. Researcher Garners TR35 Accolade</title>
+      <link>/post/msr2011/</link>
+      <pubDate>Tue, 23 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/post/msr2011/</guid>
+      <description>&lt;p&gt;Andrew Phillips, a 34-year-old scientist who leads the Biological Computation group at Microsoft Research Cambridge, received the award, given each year by Technology Review to recognize the world’s top innovators under the age of 35.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -571,7 +606,7 @@
       <link>/post/nature2006/</link>
       <pubDate>Thu, 23 Mar 2006 00:00:00 +0000</pubDate>
       <guid>/post/nature2006/</guid>
-      <description>&lt;p&gt;Co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, &amp;quot;That report inspired this week&amp;rsquo;s focus on computing in Nature&amp;quot;, including the cover.&lt;/p&gt;
+      <description>&lt;p&gt;I was a co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, &amp;quot;That report inspired this week&amp;rsquo;s focus on computing in Nature&amp;quot;, including the cover.&lt;/p&gt;
 </description>
     </item>
     
