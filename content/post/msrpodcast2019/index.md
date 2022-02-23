@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [visualdsd,visualgec]
+projects: [visualgec]
 ---
 
 What if we could figure out exactly how the building blocks of life work and harness their power with the rigor and predictability of computer science?
