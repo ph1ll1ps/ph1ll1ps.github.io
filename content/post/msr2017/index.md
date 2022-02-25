@@ -3,7 +3,7 @@
 
 title: "Researchers build nanoscale computational circuit boards with DNA"
 subtitle: "In a new paper published today by the journal Nature Nanotechnology, scientists at the University of Washington and Microsoft Research describe a method that uses spatial organization to build nanoscale computational circuits made of synthetic DNA. - <a href = https://www.microsoft.com/en-us/research/blog/researchers-build-nanoscale-computational-circuit-boards-dna/>Microsoft Research</a>"
-summary: "I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA.<br><b>Microsoft Research</b>"
+summary: "I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA, in collaboration with the University of Washington.<br><b>Microsoft Research</b>"
 authors: []
 
 tags: []
@@ -35,4 +35,4 @@ image:
 projects: [visualdsd]
 ---
 
-I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA.
+I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA, in collaboration with the University of Washington.

@@ -3,7 +3,7 @@
 
 title: "Researchers build nanoscale distributed DNA computing systems from artificial protocells"
 subtitle: "In a new paper published in the journal Nature Nanotechnology, a team of researchers led by Tom de Greef at the Eindhoven University of Technology and Radboud University, Stephen Mann at the University of Bristol, and Andrew Phillips at Microsoft Research present a method for implementing distributed DNA computing systems by compartmentalizing DNA devices inside artificial protocells. - <a href = https://www.microsoft.com/en-us/research/blog/researchers-build-nanoscale-distributed-dna-computing-systems-from-artificial-protocells/>Microsoft Research</a>"
-summary: "I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells. <br> <b>Microsoft Research</b>"
+summary: "I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells, in collaboration with Eindhoven University of Technology and Radboud University. <br> <b>Microsoft Research</b>"
 authors: []
 
 tags: []
@@ -33,4 +33,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [visualdsd]
 ---
-I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells.
+I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells, in collaboration with Eindhoven University of Technology and Radboud University.

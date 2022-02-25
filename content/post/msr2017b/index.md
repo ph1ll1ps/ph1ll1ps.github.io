@@ -3,7 +3,7 @@
 
 title: "Scientists use machine learning to predict DNA binding rates from sequence"
 subtitle: "In a new paper published by the journal Nature Chemistry, scientists at Rice University and Microsoft Research describe a method that predicts the binding rate of DNA strands directly from their sequence to within a factor of three, with 91% accuracy. - <a href = https://www.microsoft.com/en-us/research/blog/dna-binding-rate/>Microsoft Research</a>"
-summary: "I led a computational team to help develop a machine learning method for predicting DNA binding rates.<br><b>Microsoft Research</b>"
+summary: "I led a computational team to help develop a machine learning method for predicting DNA binding rates, in collaboration with Rice University.<br><b>Microsoft Research</b>"
 authors: []
 
 tags: []
@@ -34,4 +34,4 @@ image:
 projects: [visualdsd]
 ---
 
-I led a computational team to help develop a machine learning method for predicting DNA binding rates.
+I led a computational team to help develop a machine learning method for predicting DNA binding rates, in collaboration with Rice University.
