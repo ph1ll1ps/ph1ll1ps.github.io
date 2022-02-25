@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>NuProbe and Microsoft Researchers Invent a Deep Learning Model for Predicting NGS Sequencing Depth</title>
+      <link>/post/nuprobe2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/nuprobe2021/</guid>
+      <description>&lt;p&gt;I led a computational team to help develop a deep learning method for predicting Next Generation Sequencing depth, in collaboration with NuProbe and Rice University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
       <link>/publication/grant2020/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
@@ -126,7 +135,7 @@
       <link>/post/msr2019/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/post/msr2019/</guid>
-      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells.&lt;/p&gt;
+      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop communicating DNA circuits encapsulated in synthetic protocells, in collaboration with Eindhoven University of Technology and Radboud University.&lt;/p&gt;
 </description>
     </item>
     
@@ -200,7 +209,7 @@
       <link>/post/msr2017b/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/post/msr2017b/</guid>
-      <description>&lt;p&gt;I led a computational team to help develop a machine learning method for predicting DNA binding rates.&lt;/p&gt;
+      <description>&lt;p&gt;I led a computational team to help develop a machine learning method for predicting DNA binding rates, in collaboration with Rice University.&lt;/p&gt;
 </description>
     </item>
     
@@ -225,7 +234,7 @@
       <link>/post/msr2017/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       <guid>/post/msr2017/</guid>
-      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA.&lt;/p&gt;
+      <description>&lt;p&gt;I led a computational team using our Visual DSD language to help develop scalable logic circuits localised to DNA, in collaboration with the University of Washington.&lt;/p&gt;
 </description>
     </item>
     
