@@ -15,6 +15,11 @@ image:
   focal_point: Smart
 
 links:
+- icon: chrome
+  icon_pack: fab
+  name: Online Tool
+  url: "visualdsd/index.html"
+
 - icon: github
   icon_pack: fab
   name: Source code
