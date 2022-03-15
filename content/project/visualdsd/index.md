@@ -30,6 +30,17 @@ links:
   name: Windows Binary
   url: "files/visualdsd_windows_latest.zip"
   
+
+- icon: windows
+  icon_pack: fab
+  name: DSD Command Line
+  url: "files/visualdsd_cli_windows_latest.zip"
+  
+- icon: windows
+  icon_pack: fab
+  name: CRN Command Line
+  url: "files/visualcrn_cli_windows_latest.zip"
+  
 - icon: adobe
   icon_pack: fab
   name: Visual DSD Manual
