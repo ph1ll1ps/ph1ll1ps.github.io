@@ -30,3 +30,4 @@ url_video: ""
 slides: ""
 ---
 
+Visual GEC is a programming language and software tool for designing genetic circuits.
