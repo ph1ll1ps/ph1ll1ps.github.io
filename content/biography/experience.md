@@ -17,6 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Director of Bioinformatics, Biologics Engineering"
+  company = "AstraZeneca"
+  company_url = ""
+  location = "Cambridge, UK"
+  date_start = "2022-06-06"
+
+description = "Leading the development of an end-to-end data management and analysis strategy and capabilities that will significantly impact the delivery of the novel biologics drugs of the future. This includes building an interdisciplinary team at the intersection of data management, lab automation, computational modelling and machine learning. <br><br>Biologics Engineering is responsible for the discovery and optimisation of next generation biological drug candidates for all key therapy areas across AstraZeneca, and for developing in-house biologics discovery platforms and novel drug modalities to address unmet medical needs."
+
+
+
+
 [[experience]]
   title = "Head of Biological Computation"
   company = "Microsoft Research"
