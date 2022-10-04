@@ -43,7 +43,7 @@ date_format = "2006"
   url = "https://careers.astrazeneca.com/job/cambridge/senior-machine-learning-scientist-biologics-design-biologics-engineering-oncology-r-and-d/7684/36684270816"
   date_start = "2022-09-21"
   date_end = ""
-  description = "To develop machine learning capabilities for Biologics Design"
+  description = "To develop machine learning capabilities for Biologics Design."
   
 [[item]]
   organization = "AstraZeneca, Gaithersburg, US"
@@ -52,7 +52,7 @@ date_format = "2006"
   url = "https://careers.astrazeneca.com/job/gaithersburg/senior-bioinformatician-genomics-biologics-engineering-oncology-r-and-d/7684/36653770720"
   date_start = "2022-09-21"
   date_end = ""
-  description = "To develop genomic analysis capabilities for Biologics Engineering"
+  description = "To develop genomic analysis capabilities for Biologics Engineering."
 
 
 +++
