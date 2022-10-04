@@ -632,5 +632,7 @@
     <loc>/authors/admin/</loc>
   </url><url>
     <loc>/biography/</loc>
+  </url><url>
+    <loc>/hiring/</loc>
   </url>
 </urlset>
