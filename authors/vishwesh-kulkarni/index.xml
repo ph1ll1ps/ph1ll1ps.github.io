@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishwesh Kulkarni | Andrew Phillips</title>
+    <link>/authors/vishwesh-kulkarni/</link>
+      <atom:link href="/authors/vishwesh-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vishwesh Kulkarni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <title>Vishwesh Kulkarni</title>
+      <link>/authors/vishwesh-kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>Automated Leak Analysis of Nucleic Acid Circuits</title>
+      <link>/publication/zarubiieva2022/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/zarubiieva2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
