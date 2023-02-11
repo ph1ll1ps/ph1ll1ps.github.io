@@ -19,40 +19,51 @@ date_format = "02 January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "AstraZeneca, Cambridge, UK"
+  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Cambridge, UK"
   organization_url = ""
-  title = "Senior Bioinformatician, Data Management"
-  url = "https://careers.astrazeneca.com/job/cambridge/senior-bioinformatician-data-management-biologics-engineering-oncology-r-and-d/7684/36684254256"
-  date_start = "2022-09-21"
+  title = "F# Research Software Engineer"
+  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158880-1"
+  date_start = "2023-02-10"
+  date_end = ""
+  #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
+
+[[item]]
+  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
+  organization_url = ""
+  title = "F# Research Software Engineer"
+  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/F--Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158967-1"
+  date_start = "2023-02-10"
+  date_end = ""
+  #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
+  
+[[item]]
+  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
+  organization_url = ""
+  title = "Genedata Biologics Research Software Engineer"
+  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Genedata-Biologics-Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158964-1"
+  date_start = "2023-02-10"
   date_end = ""
   #description = "To develop end-to-end data management capabilities for Biologics Engineering."
+
   
 [[item]]
-  organization = "AstraZeneca, Cambridge, UK"
+  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
   organization_url = ""
-  title = "Senior Bioinformatician, Experiment Design"
-  url = "https://careers.astrazeneca.com/job/cambridge/senior-bioinformatician-experiment-design-biologics-engineering-oncology-r-and-d/7684/36684258960"
-  date_start = "2022-09-21"
+  title = "Associate Principal Scientist, Genomics"
+  url = "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Senior-Bioinformatician--Genomics---Biologics-Engineering--Oncology-R-D_R-148536-2"
+  date_start = "2023-01-24"
   date_end = ""
-  #description = "To develop end-to-end experiment design and analysis capabilities for Biologics Engineering."
+  #description = "To develop genomic analysis capabilities for Biologics Engineering."
+
   
 [[item]]
-  organization = "AstraZeneca, Cambridge, UK"
+  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Cambridge, UK"
   organization_url = ""
-  title = "Senior Machine Learning Scientist, Biologics Design"
-  url = "https://careers.astrazeneca.com/job/cambridge/senior-machine-learning-scientist-biologics-design-biologics-engineering-oncology-r-and-d/7684/36684270816"
-  date_start = "2022-09-21"
+  title = "Senior Machine Learning Scientist, Biologics Optimization"
+  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Senior-Machine-Learning-Scientist--Biologics-Optimization---Oncology-R-D_R-151993-2"
+  date_start = "2023-01-24"
   date_end = ""
-  #description = "To develop machine learning capabilities for Biologics Design"
-  
-[[item]]
-  organization = "AstraZeneca, Gaithersburg, US"
-  organization_url = ""
-  title = "Senior Bioinformatician, Genomics"
-  url = "https://careers.astrazeneca.com/job/gaithersburg/senior-bioinformatician-genomics-biologics-engineering-oncology-r-and-d/7684/36653770720"
-  date_start = "2022-09-21"
-  date_end = ""
-  #description = "To develop genomic analysis capabilities for Biologics Engineering"
+  #description = "To develop machine learning capabilities for Biologics Optimization."
 
 
 +++
