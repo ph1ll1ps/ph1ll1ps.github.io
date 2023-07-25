@@ -44,27 +44,6 @@ date_format = "2006"
   date_end = ""
   description = "To develop end-to-end data management capabilities for Biologics Engineering."
 
-  
-[[item]]
-  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
-  organization_url = ""
-  title = "Associate Principal Scientist, Genomics"
-  url = "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Senior-Bioinformatician--Genomics---Biologics-Engineering--Oncology-R-D_R-148536-2"
-  date_start = "2023-01-24"
-  date_end = ""
-  description = "To develop genomic analysis capabilities for Biologics Engineering."
-
-  
-[[item]]
-  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Cambridge, UK"
-  organization_url = ""
-  title = "Senior Machine Learning Scientist, Biologics Optimization"
-  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Senior-Machine-Learning-Scientist--Biologics-Optimization---Oncology-R-D_R-151993-2"
-  date_start = "2023-01-24"
-  date_end = ""
-  description = "To develop machine learning capabilities for Biologics Optimization."
-
-
 +++
 My role as Director of Bioinformatics in Biologics Engineering at AstraZeneca is to lead the development of an end-to-end data management and analysis strategy and capabilities that will significantly impact the delivery of the novel biologics drugs of the future. Open positions for my team are listed below and are available immediately. 
 
