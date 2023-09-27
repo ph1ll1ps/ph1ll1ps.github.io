@@ -19,31 +19,24 @@ date_format = "02 January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Cambridge, UK"
+  organization = "Sanofi"
   organization_url = ""
-  title = "F# Research Software Engineer"
-  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158880-1"
-  date_start = "2023-02-10"
+  title = "Computational Scientists (Machine Learning)"
+  url = "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-UK/Computational-Scientist----Machine-Learning--Digital-R-D-Large-Molecule-Research_R2704708"
+  date_start = "2023-10-01"
   date_end = ""
   #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
 
 [[item]]
-  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
+  organization = "Sanofi"
   organization_url = ""
-  title = "F# Research Software Engineer"
-  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/F--Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158967-1"
-  date_start = "2023-02-10"
+  title = "Senior Computational Scientists (Machine Learning)"
+  url = "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-UK/Sr-Computational-Scientist----Machine-Learning--Digital-R-D-Large-Molecule-Research_R2704707-1"
+  date_start = "2023-10-01"
   date_end = ""
   #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
   
-[[item]]
-  organization = "Biologics Engineering, Oncology R&D, AstraZeneca - Gaithersburg, USA"
-  organization_url = ""
-  title = "Genedata Biologics Research Software Engineer"
-  url = "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Genedata-Biologics-Research-Software-Engineer---Biologics-Engineering--Oncology-R-D_R-158964-1"
-  date_start = "2023-02-10"
-  date_end = ""
-  #description = "To develop end-to-end data management capabilities for Biologics Engineering."
+
 
 
 +++
