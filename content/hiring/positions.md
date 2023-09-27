@@ -37,4 +37,4 @@ date_format = "2006"
   #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
 
 +++
-This is an opportunity to join the Biologics AI Moonshot at Sanofi https://www.youtube.com/watch?v=yIn3GECO82A .
+This is an exciting opportunity to join the Biologics AI Moonshot at Sanofi https://www.youtube.com/watch?v=yIn3GECO82A .
