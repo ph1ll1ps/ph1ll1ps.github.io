@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Head of Biologics AI Platform"
+  company = "Sanofi"
+  company_url = ""
+  location = "Cambridge, UK"
+  date_start = "2023-09-15"
+
+description = "Leading Sanofi's Biologics AI Moonshot (BioAIM) https://www.youtube.com/watch?v=yIn3GECO82A, which aims to accelerate biologics discovery by leveraging machine learning and artificial intelligence."
 
 [[experience]]
   title = "Director of Bioinformatics, Biologics Engineering"
@@ -25,6 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cambridge, UK"
   date_start = "2022-06-06"
+  date_end = "2023-09-07"
 
 description = "Leading the development of an end-to-end data management and analysis strategy and capabilities that will significantly impact the delivery of the novel biologics drugs of the future. This includes building an interdisciplinary team at the intersection of data management, lab automation, computational modelling and machine learning. <br><br>Biologics Engineering is responsible for the discovery and optimisation of next generation biological drug candidates for all key therapy areas across AstraZeneca, and for developing in-house biologics discovery platforms and novel drug modalities to address unmet medical needs."
 

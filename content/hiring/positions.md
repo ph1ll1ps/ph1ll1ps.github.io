@@ -10,7 +10,7 @@ subtitle = "Available Immediately"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "January 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,22 +19,22 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Sanofi"
+  organization = "Sanofi - Cambridge (UK), Cambridge (US), Frankfurt, Ghent"
   organization_url = ""
   title = "Computational Scientists (Machine Learning)"
   url = "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-UK/Computational-Scientist----Machine-Learning--Digital-R-D-Large-Molecule-Research_R2704708"
-  date_start = "2023-10-01"
+  date_start = "2023-09-01"
   date_end = ""
   #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
 
 [[item]]
-  organization = "Sanofi"
+  organization = "Sanofi - Cambridge (UK), Cambridge (US), Frankfurt, Ghent"
   organization_url = ""
   title = "Senior Computational Scientists (Machine Learning)"
   url = "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-UK/Sr-Computational-Scientist----Machine-Learning--Digital-R-D-Large-Molecule-Research_R2704707-1"
-  date_start = "2023-10-01"
+  date_start = "2023-09-01"
   date_end = ""
   #description = "To develop experiment design and analysis software in F# for Biologics Engineering."
 
 +++
-This is an exciting opportunity to join the Biologics AI Moonshot at Sanofi https://www.youtube.com/watch?v=yIn3GECO82A .
+This is an exciting opportunity to join Sanofi's Biologics AI Moonshot (BioAIM) https://www.youtube.com/watch?v=yIn3GECO82A, which aims to accelerate biologics discovery by leveraging machine learning and artificial intelligence.
