@@ -9,7 +9,7 @@ authors: []
 tags: []
 categories: []
 date: 2019-10-01T00:00:00Z
-publishDate: T00:00:00Z
+publishDate: 2019-10-01T00:00:00Z
 url_pdf: 
 featured: true
 publication: "Financial Times"
