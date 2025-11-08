@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Cambridge, UK"
   date_start = "2023-09-15"
 
-description = "Leading Sanofi's Biologics AI Moonshot (BioAIM) https://www.youtube.com/watch?v=yIn3GECO82A, which aims to accelerate biologics discovery by leveraging machine learning and artificial intelligence."
+description = "Leading Sanofi's Biologics AI Moonshot (BioAIM) https://www.youtube.com/watch?v=yIn3GECO82A, which aims to accelerate biologics discovery by leveraging machine learning and artificial intelligence. "
 
 [[experience]]
   title = "Director of Bioinformatics, Biologics Engineering"
