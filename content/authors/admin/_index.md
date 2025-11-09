@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Andrew Phillips
+title: "Andrew Phillips"
 
 # Username (this should match the folder name)
 authors:
-- admin
+  - admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,26 +44,26 @@ bio: ""
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: "https://scholar.google.co.uk/citations?user=-0dWVY4AAAAJ&hl=en"
-- icon: linkedin
-  icon_pack: fab
-  link: "https://www.linkedin.com/in/ph1ll1ps"
-- icon: github
-  icon_pack: fab
-  link: "https://github.com/ph1ll1ps"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/vprashant1
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:firstname.lastname@live.com"  # For a direct email link, use "mailto:test@example.org".
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.co.uk/citations?user=-0dWVY4AAAAJ&hl=en"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/ph1ll1ps"
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/ph1ll1ps"
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/vprashant1
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:firstname.lastname@live.com"  # For a direct email link, use "mailto:test@example.org".
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,8 +71,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
 Innovator with the ambition to enable genetic programming of cells in the true sense of the word programming, by predicting how changes to genetic code will affect biological behaviour. Pioneer in the development of programming languages for molecular and genetic circuits, which automatically generate computational models of behaviour from annotated DNA sequences. Leader in Synthetic Biology with experience leading high-performing interdisciplinary teams at the intersection of computational modelling, lab automation and machine learning. Led research on learning computational models of cell dynamics from experimental data and on predicting interactions between DNA molecules from sequence. Inspired by the potential of combining machine learning methods with domain knowledge in the form of automatically generated computational models, to predict biological behaviour from changes to genetic code.
 
