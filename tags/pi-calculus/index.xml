@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pi-calculus | Andrew Phillips</title>
+    <title>Pi-Calculus | Andrew Phillips</title>
     <link>/tags/pi-calculus/</link>
       <atom:link href="/tags/pi-calculus/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pi-calculus</description>
+    <description>Pi-Calculus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 May 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
-      <title>Pi-calculus</title>
+      <url>/images/icon_hu_bd541ad21dc98408.png</url>
+      <title>Pi-Calculus</title>
       <link>/tags/pi-calculus/</link>
     </image>
     

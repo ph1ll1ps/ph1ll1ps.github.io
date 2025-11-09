@@ -20,7 +20,7 @@
   
   
 
-  
+  <meta name="author" content="Andrew Phillips">
 
   
   
@@ -203,48 +203,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57219570-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-57219570-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -254,8 +212,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_2b68f09a8dc42c7d.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_1db82a9e070ed42c.png">
 
   <link rel="canonical" href="/post/nature2006/">
 
@@ -315,12 +273,17 @@
   "datePublished": "2006-03-23T00:00:00Z",
   "dateModified": "2006-03-23T00:00:00Z",
   
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Phillips"
+  },
+  
   "publisher": {
     "@type": "Organization",
     "name": "Andrew Phillips",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png"
+      "url": "/images/icon_hu_1db82a9e070ed42c.png"
     }
   },
   "description": "I was a co-editor and contributing author of the 2020 Science report, led by Stephen Emmott. According to Nature, \"That report inspired this week's focus on computing in Nature\", including the cover.\u003cbr\u003e\u003cb\u003eNature\u003c/b\u003e"
@@ -832,96 +795,6 @@
 
 
 
-  
-    
-    
-    
-      
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-        
-        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu30d3c8f8642264761bf929f33899c054_603566_270x270_fill_q90_lanczos_center.jpg" alt="">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="/"></a></h5>
-        <h6 class="card-subtitle">Innovator and leader in molecular and genetic programming</h6>
-        
-        <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.co.uk/citations?user=-0dWVY4AAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/ph1ll1ps" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/ph1ll1ps" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:firstname.lastname@live.com" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      </div>
-    </div>
-  
-
 
 
 
@@ -1041,7 +914,7 @@
     
     
     
-    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+    <script src="/js/academic.min.f5b874a94e8fa505c85e552ced070433.js"></script>
 
     
 

@@ -20,7 +20,7 @@
   
   
 
-  
+  <meta name="author" content="Andrew Phillips">
 
   
   
@@ -203,48 +203,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57219570-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-57219570-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -254,8 +212,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_2b68f09a8dc42c7d.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_1db82a9e070ed42c.png">
 
   <link rel="canonical" href="/publication/phillips2004/">
 
@@ -275,8 +233,8 @@
   <meta property="og:site_name" content="Andrew Phillips">
   <meta property="og:url" content="/publication/phillips2004/">
   <meta property="og:title" content="A Distributed Abstract Machine for Boxed Ambient Calculi | Andrew Phillips">
-  <meta property="og:description" content=" "><meta property="og:image" content="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=" "><meta property="og:image" content="/images/icon_hu_bd541ad21dc98408.png">
+  <meta property="twitter:image" content="/images/icon_hu_bd541ad21dc98408.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2004-03-29T00:00:00&#43;00:00">
@@ -320,7 +278,7 @@
     "name": "Andrew Phillips",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png"
+      "url": "/images/icon_hu_1db82a9e070ed42c.png"
     }
   },
   "description": " "
@@ -658,7 +616,7 @@
     
 
   
-  <span >Andrew Phillips</span>, <span >Nobuko Yoshida</span>, <span >Susan Eisenbach</span>
+  <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/nobuko-yoshida/">Nobuko Yoshida</a></span>, <span ><a href="/authors/susan-eisenbach/">Susan Eisenbach</a></span>
   </div>
   
   
@@ -809,7 +767,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/pi-calculus/">Pi-calculus</a>
+  <a class="badge badge-light" href="/tags/pi-calculus/">Pi-Calculus</a>
   
 </div>
 
@@ -1062,7 +1020,7 @@
     
     
     
-    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+    <script src="/js/academic.min.f5b874a94e8fa505c85e552ced070433.js"></script>
 
     
 

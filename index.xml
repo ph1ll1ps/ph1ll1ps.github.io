@@ -7,7 +7,7 @@
     <description>Andrew Phillips</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_bd541ad21dc98408.png</url>
       <title>Andrew Phillips</title>
       <link>/</link>
     </image>
@@ -675,6 +675,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/hiring/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Phillips</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Innovator with the ambition to enable genetic programming of cells in the true sense of the word programming, by predicting how changes to genetic code will affect biological behaviour. Pioneer in the development of programming languages for molecular and genetic circuits, which automatically generate computational models of behaviour from annotated DNA sequences. Leader in Synthetic Biology with experience leading high-performing interdisciplinary teams at the intersection of computational modelling, lab automation and machine learning. Led research on learning computational models of cell dynamics from experimental data and on predicting interactions between DNA molecules from sequence. Inspired by the potential of combining machine learning methods with domain knowledge in the form of automatically generated computational models, to predict biological behaviour from changes to genetic code.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,10 +5,10 @@
     <loc>/publication_types/2/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/andrew-phillips/</loc>
+    <loc>/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/authors/andrew-phillips/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
@@ -264,6 +264,9 @@
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/dalchau2018/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gregory-szep/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/luca-cardelli/</loc>
@@ -629,10 +632,10 @@
     <loc>/authors/susan-eisenbach/</loc>
     <lastmod>2004-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
     <loc>/biography/</loc>
   </url><url>
     <loc>/hiring/</loc>
+  </url><url>
+    <loc>/authors/admin/</loc>
   </url>
 </urlset>

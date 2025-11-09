@@ -20,7 +20,7 @@
   
   
 
-  
+  <meta name="author" content="Andrew Phillips">
 
   
   
@@ -203,48 +203,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57219570-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-57219570-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -254,8 +212,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_2b68f09a8dc42c7d.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_1db82a9e070ed42c.png">
 
   <link rel="canonical" href="/publication/zarubiieva2022/">
 
@@ -323,7 +281,7 @@
     "name": "Andrew Phillips",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png"
+      "url": "/images/icon_hu_1db82a9e070ed42c.png"
     }
   },
   "description": " "
@@ -669,7 +627,7 @@
     
 
   
-  <span >Iuliia Zarubiieva</span>, <span >Carlo Spaccasassi</span>, <span >Vishwesh Kulkarni</span>, <span >Andrew Phillips</span>
+  <span ><a href="/authors/iuliia-zarubiieva/">Iuliia Zarubiieva</a></span>, <span ><a href="/authors/carlo-spaccasassi/">Carlo Spaccasassi</a></span>, <span ><a href="/authors/vishwesh-kulkarni/">Vishwesh Kulkarni</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>
   </div>
   
   
@@ -769,7 +727,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 284px;">
   <div style="position: relative">
-    <img src="/publication/zarubiieva2022/featured_hu8d22b52c8ee0b406ae6bf95aae8ddb91_164535_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/publication/zarubiieva2022/featured_hu_4b6a80aba307c315.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1093,7 +1051,7 @@
     
     
     
-    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+    <script src="/js/academic.min.f5b874a94e8fa505c85e552ced070433.js"></script>
 
     
 

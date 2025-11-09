@@ -20,7 +20,7 @@
   
   
 
-  
+  <meta name="author" content="Andrew Phillips">
 
   
   
@@ -203,48 +203,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57219570-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-57219570-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -254,8 +212,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_2b68f09a8dc42c7d.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_1db82a9e070ed42c.png">
 
   <link rel="canonical" href="/project/visualdsd/">
 
@@ -313,12 +271,17 @@
   "datePublished": "2009-08-06T00:00:00Z",
   "dateModified": "2009-08-06T00:00:00Z",
   
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Phillips"
+  },
+  
   "publisher": {
     "@type": "Organization",
     "name": "Andrew Phillips",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu6b949a75051a75aa55eff4ff75e4478e_3556_192x192_fill_lanczos_center_3.png"
+      "url": "/images/icon_hu_1db82a9e070ed42c.png"
     }
   },
   "description": "A programming language for nucleic acid circuits"
@@ -846,7 +809,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
   <div style="position: relative">
-    <img src="/project/visualdsd/featured_hub62dcb03eba60967c32c902b8e8d1fe3_2518884_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/project/visualdsd/featured_hu_72b48206d2edfc1a.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -983,96 +946,6 @@
 
 
 
-  
-    
-    
-    
-      
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-        
-        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu30d3c8f8642264761bf929f33899c054_603566_270x270_fill_q90_lanczos_center.jpg" alt="">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="/"></a></h5>
-        <h6 class="card-subtitle">Innovator and leader in molecular and genetic programming</h6>
-        
-        <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.co.uk/citations?user=-0dWVY4AAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/ph1ll1ps" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/ph1ll1ps" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:firstname.lastname@live.com" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      </div>
-    </div>
-  
-
 
 
 
@@ -1181,7 +1054,7 @@
     
     
     <a href="/post/nuprobe2021/" >
-      <img src="/post/nuprobe2021/featured_hu69bf32794e2b634d7c7155ee605e171a_176839_150x0_resize_lanczos_3.png" alt="NuProbe and Microsoft Researchers Invent a Deep Learning Model for Predicting NGS Sequencing Depth">
+      <img src="/post/nuprobe2021/featured_hu_ab84b3fa047ad543.png" alt="NuProbe and Microsoft Researchers Invent a Deep Learning Model for Predicting NGS Sequencing Depth">
     </a>
     
   </div>
@@ -1273,7 +1146,7 @@
     
     
     <a href="/post/msr2019/" >
-      <img src="/post/msr2019/featured_hu26b443eb881dafe3a36c3ec7059ce9f8_1640680_150x0_resize_lanczos_3.png" alt="Researchers build nanoscale distributed DNA computing systems from artificial protocells">
+      <img src="/post/msr2019/featured_hu_92267b528d389b51.png" alt="Researchers build nanoscale distributed DNA computing systems from artificial protocells">
     </a>
     
   </div>
@@ -1365,7 +1238,7 @@
     
     
     <a href="/post/msr2017b/" >
-      <img src="/post/msr2017b/featured_huc73c4b6f2a1da34dfb3c741661f67c12_458153_150x0_resize_lanczos_3.png" alt="Scientists use machine learning to predict DNA binding rates from sequence">
+      <img src="/post/msr2017b/featured_hu_6cff04b0fc61d7b4.png" alt="Scientists use machine learning to predict DNA binding rates from sequence">
     </a>
     
   </div>
@@ -1457,7 +1330,7 @@
     
     
     <a href="/post/msr2017/" >
-      <img src="/post/msr2017/featured_hu6b8bae0b312a3d16fba4b69f2c6c09c2_2201025_150x0_resize_lanczos_3.png" alt="Researchers build nanoscale computational circuit boards with DNA">
+      <img src="/post/msr2017/featured_hu_c2c3404192d6aa5e.png" alt="Researchers build nanoscale computational circuit boards with DNA">
     </a>
     
   </div>
@@ -1549,7 +1422,7 @@
     
     
     <a href="/post/economist2012/" >
-      <img src="/post/economist2012/featured_hubf727a520c240e2664e008e754e4c4a2_181645_150x0_resize_q90_lanczos.jpg" alt="Computing with soup">
+      <img src="/post/economist2012/featured_hu_500cbf0bfce0efd.jpg" alt="Computing with soup">
     </a>
     
   </div>
@@ -1602,7 +1475,7 @@
         
 
   
-  <span >Iuliia Zarubiieva</span>, <span >Carlo Spaccasassi</span>, <span >Vishwesh Kulkarni</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/iuliia-zarubiieva/">Iuliia Zarubiieva</a></span>, <span ><a href="/authors/carlo-spaccasassi/">Carlo Spaccasassi</a></span>, <span ><a href="/authors/vishwesh-kulkarni/">Vishwesh Kulkarni</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         ACS Synthetic Biology
@@ -1669,7 +1542,7 @@
     
     
     <a href="/publication/zarubiieva2022/" >
-      <img src="/publication/zarubiieva2022/featured_hu8d22b52c8ee0b406ae6bf95aae8ddb91_164535_150x0_resize_lanczos_3.png" alt="Automated Leak Analysis of Nucleic Acid Circuits">
+      <img src="/publication/zarubiieva2022/featured_hu_542580ed18ca46a.png" alt="Automated Leak Analysis of Nucleic Acid Circuits">
     </a>
     
   </div>
@@ -1715,7 +1588,7 @@
         
 
   
-  <span >Jinny X. Zhang</span>, <span >Boyan Yordanov</span>, <span >Alexander Gaunt</span>, <span >Michael X Wang</span>, <span >Peng Dai</span>, <span >Yuan-jyue Chen</span>, <span >Kerou Zhang</span>, <span >John Z Fang</span>, <span >Neil Dalchau</span>, <span >Jiaming Li</span>, <span >Andrew Phillips</span>, <span >David Yu Zhang</span>.
+  <span ><a href="/authors/jinny-x.-zhang/">Jinny X. Zhang</a></span>, <span ><a href="/authors/boyan-yordanov/">Boyan Yordanov</a></span>, <span ><a href="/authors/alexander-gaunt/">Alexander Gaunt</a></span>, <span ><a href="/authors/michael-x-wang/">Michael X Wang</a></span>, <span ><a href="/authors/peng-dai/">Peng Dai</a></span>, <span ><a href="/authors/yuan-jyue-chen/">Yuan-Jyue Chen</a></span>, <span ><a href="/authors/kerou-zhang/">Kerou Zhang</a></span>, <span ><a href="/authors/john-z-fang/">John Z Fang</a></span>, <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/jiaming-li/">Jiaming Li</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/david-yu-zhang/">David Yu Zhang</a></span>.
 		<br>
 		<b>
         Nature Communications
@@ -1782,7 +1655,7 @@
     
     
     <a href="/publication/zhang2021/" >
-      <img src="/publication/zhang2021/featured_hu2a0f24a8f4548687f7ed5abffbc91d5b_357222_150x0_resize_lanczos_3.png" alt="A deep learning model for predicting next-generation sequencing depth from DNA sequence">
+      <img src="/publication/zhang2021/featured_hu_331e088115e37c39.png" alt="A deep learning model for predicting next-generation sequencing depth from DNA sequence">
     </a>
     
   </div>
@@ -1828,7 +1701,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         ACS Synthetic Biology
@@ -1936,7 +1809,7 @@
         
 
   
-  <span >Carlo Spaccasassi</span>, <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/carlo-spaccasassi/">Carlo Spaccasassi</a></span>, <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         ACS Synthetic Biology
@@ -2003,7 +1876,7 @@
     
     
     <a href="/publication/spaccasassi2019/" >
-      <img src="/publication/spaccasassi2019/featured_huc88308232916c433047c8b042bbfa5e3_139033_150x0_resize_lanczos_3.png" alt="A Logic Programming Language for Computational Nucleic Acid Devices">
+      <img src="/publication/spaccasassi2019/featured_hu_47aefe50b23f3ed9.png" alt="A Logic Programming Language for Computational Nucleic Acid Devices">
     </a>
     
   </div>
@@ -2049,7 +1922,7 @@
         
 
   
-  <span >Alex Joesaar</span>, <span >Shuo Yang</span>, <span >Bas Bögels</span>, <span >Ardjan van der Linden</span>, <span >Pascal Pieters</span>, <span >BVVS Pavan Kumar</span>, <span >Neil Dalchau</span>, <span >Andrew Phillips</span>, <span >Stephen Mann</span>, <span >Tom FA de Greef</span>.
+  <span ><a href="/authors/alex-joesaar/">Alex Joesaar</a></span>, <span ><a href="/authors/shuo-yang/">Shuo Yang</a></span>, <span ><a href="/authors/bas-bogels/">Bas Bögels</a></span>, <span ><a href="/authors/ardjan-van-der-linden/">Ardjan Van Der Linden</a></span>, <span ><a href="/authors/pascal-pieters/">Pascal Pieters</a></span>, <span ><a href="/authors/bvvs-pavan-kumar/">BVVS Pavan Kumar</a></span>, <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/stephen-mann/">Stephen Mann</a></span>, <span ><a href="/authors/tom-fa-de-greef/">Tom FA De Greef</a></span>.
 		<br>
 		<b>
         Nature Nanotechnology
@@ -2116,7 +1989,7 @@
     
     
     <a href="/publication/joesaar2019/" >
-      <img src="/publication/joesaar2019/featured_hu26b443eb881dafe3a36c3ec7059ce9f8_1640680_150x0_resize_lanczos_3.png" alt="DNA-based communication in populations of synthetic protocells">
+      <img src="/publication/joesaar2019/featured_hu_92267b528d389b51.png" alt="DNA-based communication in populations of synthetic protocells">
     </a>
     
   </div>
@@ -2162,7 +2035,7 @@
         
 
   
-  <span >Jinny X Zhang</span>, <span >John Z Fang</span>, <span >Wei Duan</span>, <span >Lucia R Wu</span>, <span >Angela W Zhang</span>, <span >Neil Dalchau</span>, <span >Boyan Yordanov</span>, <span >Rasmus Petersen</span>, <span >Andrew Phillips</span>, <span >David Yu Zhang</span>.
+  <span ><a href="/authors/jinny-x-zhang/">Jinny X Zhang</a></span>, <span ><a href="/authors/john-z-fang/">John Z Fang</a></span>, <span ><a href="/authors/wei-duan/">Wei Duan</a></span>, <span ><a href="/authors/lucia-r-wu/">Lucia R Wu</a></span>, <span ><a href="/authors/angela-w-zhang/">Angela W Zhang</a></span>, <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/boyan-yordanov/">Boyan Yordanov</a></span>, <span ><a href="/authors/rasmus-petersen/">Rasmus Petersen</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/david-yu-zhang/">David Yu Zhang</a></span>.
 		<br>
 		<b>
         Nature Chemistry
@@ -2229,7 +2102,7 @@
     
     
     <a href="/publication/zhang2018/" >
-      <img src="/publication/zhang2018/featured_huc73c4b6f2a1da34dfb3c741661f67c12_458153_150x0_resize_lanczos_3.png" alt="Predicting DNA hybridization kinetics from sequence">
+      <img src="/publication/zhang2018/featured_hu_6cff04b0fc61d7b4.png" alt="Predicting DNA hybridization kinetics from sequence">
     </a>
     
   </div>
@@ -2275,7 +2148,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Natural Computing
@@ -2383,7 +2256,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming (DNA)
@@ -2491,7 +2364,7 @@
         
 
   
-  <span >Gourab Chatterjee</span>, <span >Neil Dalchau</span>, <span >Richard A Muscat</span>, <span >Andrew Phillips</span>, <span >Georg Seelig</span>.
+  <span ><a href="/authors/gourab-chatterjee/">Gourab Chatterjee</a></span>, <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/richard-a-muscat/">Richard a Muscat</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/georg-seelig/">Georg Seelig</a></span>.
 		<br>
 		<b>
         Nature Nanotechnology
@@ -2558,7 +2431,7 @@
     
     
     <a href="/publication/chatterjee2017/" >
-      <img src="/publication/chatterjee2017/featured_hu16052f6960f376e5f5d6fcc5c00905b6_1097913_150x0_resize_lanczos_3.png" alt="A spatially localized architecture for fast and modular DNA computing">
+      <img src="/publication/chatterjee2017/featured_hu_8ac081c714ec72fe.png" alt="A spatially localized architecture for fast and modular DNA computing">
     </a>
     
   </div>
@@ -2604,7 +2477,7 @@
         
 
   
-  <span >Rasmus L Petersen</span>, <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/rasmus-l-petersen/">Rasmus L Petersen</a></span>, <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Theoretical Computer Science
@@ -2712,7 +2585,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Darko Stefanovic</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/darko-stefanovic/">Darko Stefanovic</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Theoretical Computer Science
@@ -2820,7 +2693,7 @@
         
 
   
-  <span >Neil Dalchau</span>, <span >Harish Chandran</span>, <span >Nikhil Gopalkrishnan</span>, <span >Andrew Phillips</span>, <span >John Reif</span>.
+  <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/harish-chandran/">Harish Chandran</a></span>, <span ><a href="/authors/nikhil-gopalkrishnan/">Nikhil Gopalkrishnan</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/john-reif/">John Reif</a></span>.
 		<br>
 		<b>
         ACS Synthetic Biology
@@ -2928,7 +2801,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Rasmus Petersen</span>, <span >Kathryn E Gray</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/rasmus-petersen/">Rasmus Petersen</a></span>, <span ><a href="/authors/kathryn-e-gray/">Kathryn E Gray</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming (DNA)
@@ -3036,7 +2909,7 @@
         
 
   
-  <span >Neil Dalchau</span>, <span >Georg Seelig</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/georg-seelig/">Georg Seelig</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming (DNA)
@@ -3144,7 +3017,7 @@
         
 
   
-  <span >Boyan Yordanov</span>, <span >Jongmin Kim</span>, <span >Rasmus L Petersen</span>, <span >Angelina Shudy</span>, <span >Vishwesh V Kulkarni</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/boyan-yordanov/">Boyan Yordanov</a></span>, <span ><a href="/authors/jongmin-kim/">Jongmin Kim</a></span>, <span ><a href="/authors/rasmus-l-petersen/">Rasmus L Petersen</a></span>, <span ><a href="/authors/angelina-shudy/">Angelina Shudy</a></span>, <span ><a href="/authors/vishwesh-v-kulkarni/">Vishwesh v Kulkarni</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         ACS Synthetic Biology
@@ -3252,7 +3125,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Practical Aspects of Declarative Languages (PADL)
@@ -3360,7 +3233,7 @@
         
 
   
-  <span >Yuan-Jyue Chen</span>, <span >Neil Dalchau</span>, <span >Niranjan Srinivas</span>, <span >Andrew Phillips</span>, <span >Luca Cardelli</span>, <span >David Soloveichik</span>, <span >Georg Seelig</span>.
+  <span ><a href="/authors/yuan-jyue-chen/">Yuan-Jyue Chen</a></span>, <span ><a href="/authors/neil-dalchau/">Neil Dalchau</a></span>, <span ><a href="/authors/niranjan-srinivas/">Niranjan Srinivas</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/luca-cardelli/">Luca Cardelli</a></span>, <span ><a href="/authors/david-soloveichik/">David Soloveichik</a></span>, <span ><a href="/authors/georg-seelig/">Georg Seelig</a></span>.
 		<br>
 		<b>
         Nature Nanotechnology
@@ -3427,7 +3300,7 @@
     
     
     <a href="/publication/chen2013/" >
-      <img src="/publication/chen2013/featured_hu5a5e898e1626bdaabee82513f1101555_263767_150x0_resize_lanczos_3.png" alt="Programmable chemical controllers made from DNA">
+      <img src="/publication/chen2013/featured_hu_24c148ef6f82a1e1.png" alt="Programmable chemical controllers made from DNA">
     </a>
     
   </div>
@@ -3473,7 +3346,7 @@
         
 
   
-  <span >Boyan Yordanov</span>, <span >Christoph M Wintersteiger</span>, <span >Youssef Hamadi</span>, <span >Andrew Phillips</span>, <span >Hillel Kugler</span>.
+  <span ><a href="/authors/boyan-yordanov/">Boyan Yordanov</a></span>, <span ><a href="/authors/christoph-m-wintersteiger/">Christoph M Wintersteiger</a></span>, <span ><a href="/authors/youssef-hamadi/">Youssef Hamadi</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/hillel-kugler/">Hillel Kugler</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming
@@ -3581,7 +3454,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Andrew Phillips</span>, <span >Darko Stefanovic</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/darko-stefanovic/">Darko Stefanovic</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming (DNA)
@@ -3689,7 +3562,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >David Parker</span>, <span >Luca Cardelli</span>, <span >Marta Kwiatkowska</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/david-parker/">David Parker</a></span>, <span ><a href="/authors/luca-cardelli/">Luca Cardelli</a></span>, <span ><a href="/authors/marta-kwiatkowska/">Marta Kwiatkowska</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Journal of The Royal Society Interface
@@ -3797,7 +3670,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Loïc Paulevé</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/loic-pauleve/">Loïc Paulevé</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Theoretical Computer Science
@@ -3905,7 +3778,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Simon Youssef</span>, <span >Luca Cardelli</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/simon-youssef/">Simon Youssef</a></span>, <span ><a href="/authors/luca-cardelli/">Luca Cardelli</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Journal of The Royal Society Interface
@@ -4013,7 +3886,7 @@
         
 
   
-  <span >Matthew R Lakin</span>, <span >Simon Youssef</span>, <span >Filippo Polo</span>, <span >Stephen Emmott</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-r-lakin/">Matthew R Lakin</a></span>, <span ><a href="/authors/simon-youssef/">Simon Youssef</a></span>, <span ><a href="/authors/filippo-polo/">Filippo Polo</a></span>, <span ><a href="/authors/stephen-emmott/">Stephen Emmott</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         Bioinformatics
@@ -4121,7 +3994,7 @@
         
 
   
-  <span >Harish Chandran</span>, <span >Nikhil Gopalkrishnan</span>, <span >Andrew Phillips</span>, <span >John Reif</span>.
+  <span ><a href="/authors/harish-chandran/">Harish Chandran</a></span>, <span ><a href="/authors/nikhil-gopalkrishnan/">Nikhil Gopalkrishnan</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/john-reif/">John Reif</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming (DNA)
@@ -4229,7 +4102,7 @@
         
 
   
-  <span >Matthew Lakin</span>, <span >Andrew Phillips</span>.
+  <span ><a href="/authors/matthew-lakin/">Matthew Lakin</a></span>, <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>.
 		<br>
 		<b>
         DNA Computing and Molecular Programming
@@ -4337,7 +4210,7 @@
         
 
   
-  <span >Andrew Phillips</span>, <span >Luca Cardelli</span>.
+  <span ><a href="/authors/andrew-phillips/">Andrew Phillips</a></span>, <span ><a href="/authors/luca-cardelli/">Luca Cardelli</a></span>.
 		<br>
 		<b>
         Journal of The Royal Society Interface
@@ -4404,7 +4277,7 @@
     
     
     <a href="/publication/phillips2009/" >
-      <img src="/publication/phillips2009/featured_hub62dcb03eba60967c32c902b8e8d1fe3_2518884_150x0_resize_lanczos_3.png" alt="A programming language for composable DNA circuits">
+      <img src="/publication/phillips2009/featured_hu_9ef5be3e0f147044.png" alt="A programming language for composable DNA circuits">
     </a>
     
   </div>
@@ -4522,7 +4395,7 @@
     
     
     
-    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+    <script src="/js/academic.min.f5b874a94e8fa505c85e552ced070433.js"></script>
 
     
 
